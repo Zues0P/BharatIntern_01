@@ -30,4 +30,7 @@ This repo consists of
 5. app.py
 6. requirements.txt
 7. setup.sh
-   
+
+
+
+To run this code , run app.py ,which would launch a local website ,  on which you can enter the data and perform the prediction 
