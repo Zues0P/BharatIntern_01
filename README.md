@@ -22,3 +22,12 @@ Evaluation consists of determining the result of the model created , and then in
 Improvement consists of applying different improvement methods to increase the performance and precision of the model,
 Deployment is done by using streamlit, which is a free and open-source framework to rapidly build and share beautiful machine learning and data science  web apps.
 
+This repo consists of 
+1. Model.pkl 
+2. Dataset 
+3. Jupyter notebook
+4. vectorize.pkl
+5. app.py
+6. requirements.txt
+7. setup.sh
+   
